@@ -19,7 +19,7 @@
         "restify": "~2",
         "sqlite3": "~3",
         "log4js": "~0.6",
-        "kafka-node": "0.2.27",
+        "kafka-node": "0.5.9",
         "event-stream": "3.3.1",
         "async": "1.4.0",
         "sync": "0.2.5",
